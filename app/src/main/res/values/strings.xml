@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Helper</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="greet">Hello, %s</string>
+    <string name="error_required_username">Username is mandatory.</string>
+    <string name="error_required_password">Password is mandatory.</string>
+    <string name="error_invalid_username_password">Username/Password is invalid.</string>
+    <string name="error_server_connection">Error while connecting to Server.</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="login">Login</string>
+</resources>
